@@ -37,3 +37,12 @@ Contact
 Detailed architecture and engineering documentation:
 
 [View Complete Documentation](YOUR_NOTION_LINK)
+
+## Contact
+
+Amir Reza Nazari
+
+Agentic AI Engineer
+
+LinkedIn:
+linkedin.com/in/arnazari2000

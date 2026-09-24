@@ -1,6 +1,16 @@
-# Agentic Ai Enterprise Platform
-Production-oriented Agentic AI platform architecture case study covering multi-agent workflows, RAG systems, NL2SQL, and enterprise AI automation.
+================================================
 
+Enterprise Agentic AI Platform
+
+Building AI agents that automate knowledge,
+reasoning, and business workflows.
+
+[Architecture Diagram]
+
+
+Production AI system deployed for professional users.
+
+================================================
 # Title
 
 Short explanation

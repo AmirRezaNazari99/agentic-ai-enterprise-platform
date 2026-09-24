@@ -32,3 +32,8 @@ Production experience
 Documentation links
 
 Contact
+## Full Technical Documentation
+
+Detailed architecture and engineering documentation:
+
+[View Complete Documentation](YOUR_NOTION_LINK)
